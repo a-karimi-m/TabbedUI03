@@ -137,6 +137,7 @@
     <None Include="Resources\search_property_80px.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Coffee-Photoshop-32.png" />
     <Content Include="MAPSA_96.ico" />
     <Content Include="Resources\MAPSA.png" />
   </ItemGroup>
